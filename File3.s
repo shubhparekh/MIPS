@@ -3,7 +3,7 @@
 # Name: Lovekesh Garg, Roll: 13CS30020
 # Name: Shubham Parekh, Roll: 13CS30022
 
-                              # Assignment 3
+# Program for 2D Arrays
 
 #    | C11  C12 |    =    |  A11  A12  | * |  B11  B12  |  
 #    | C21  C22 |         |  A21  A22  |   |  B21  B22  | 
