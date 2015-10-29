@@ -3,7 +3,7 @@
 # Name: Lovekesh Garg, Roll: 13CS30020
 # Name: Shubham Parekh, Roll: 13CS30022
 
-						# Assignment 2
+# Finding 2nd Largest element in an Array
 
 #####Data Segment##########
 .data																	# Defining the string constants
