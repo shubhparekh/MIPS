@@ -3,7 +3,7 @@
 # Name: Lovekesh Garg, Roll: 13CS30020
 # Name: Shubham Parekh, Roll: 13CS30022
 
-# Program for evaluating a function
+# Program for Matrix Addition
 
 #####Data Segment##########
 .data																	# Defining the string constants
